@@ -26,7 +26,7 @@ function login(){
             return false
         }
     }
-    alert("Incorrect password")
+    alert("Incorrect Username/password")
 }
 function register(){
     var runame = document.getElementById("username").value
